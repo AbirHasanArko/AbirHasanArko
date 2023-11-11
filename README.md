@@ -2,7 +2,8 @@
 - 👀 I’m interested in Machine Learning and Data Science.
 - 🌱 I’m currently learning C, C++, Arduino, Web development.
 - 💞️ I’m looking to collaborate on Freelance jobs.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/abirhasanarko/) [Twitter](https://twitter.com/AbirHasanArko) [Facebook](https://www.facebook.com/arko.abirhasan) [Codeforces](https://codeforces.com/profile/RoronoaArko)
+- Competitive Programming & Problem Solving: [Codeforces](https://codeforces.com/profile/RoronoaArko) [HackerRank](https://www.hackerrank.com/profile/RoronoaArko)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/abirhasanarko/) [Twitter](https://twitter.com/AbirHasanArko) [Facebook](https://www.facebook.com/arko.abirhasan)
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=RoronoaArko)](https://codeforces.com/profile/RoronoaArko)
 

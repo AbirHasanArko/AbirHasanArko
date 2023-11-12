@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbirHasanArko
-- 👀 I’m interested in Machine Learning and Data Science.
+- 👀 I’m interested in ML & DS.
 - 🌱 I’m currently learning C, C++, Arduino, Web development.
 - 💼 I’m looking to collaborate on Freelance jobs.
 - 🚀 Competitive Programming & Problem Solving: [Codeforces](https://codeforces.com/profile/RoronoaArko) [HackerRank](https://www.hackerrank.com/profile/RoronoaArko)

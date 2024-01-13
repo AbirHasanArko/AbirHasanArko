@@ -7,22 +7,31 @@
 
 <a href="https://www.linkedin.com/in/abirhasanarko/">
     <img alt="" title="Linkedin followers" src="https://img.shields.io/badge/-abirhasanarko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abirhasanarko/"/</a>
+
 </p>
+<br>
 
 <!-- Stacks -->
 ## My Stacks
 - **Languages:** C | C++
 - **Frontend:** HTML | CSS
 - **Others:** Arduino | Scratch
+<br>
+
+
 
 ## Problem Solving and Competitive Programming
-<p float="left">
-<a href="https://leetcode.com/AbirHasanArko/">
-<img height="260em" src="https://leetcard.jacoblin.cool/AbirHasanArko?theme=light&font=Archivo&ext=heatmap" /></a>
 
+[Codeforces](https://codeforces.com/profile/RoronoaArko) | [Leetcode](https://leetcode.com/AbirHasanArko/) | [HackerRank](https://www.hackerrank.com/profile/RoronoaArko) 
+
+<p float="left">
 <a href="https://codeforces.com/profile/RoronoaArko">
- <img height="260em" src="https://codeforces-readme-stats.vercel.app/api/card?username=RoronoaArko" /></a>
+    <img height="220em" src="https://codeforces-readme-stats.vercel.app/api/card?username=RoronoaArko" /></a>
+    
+<a href="https://leetcode.com/AbirHasanArko/">
+    <img height="220em" src="https://leetcard.jacoblin.cool/AbirHasanArko?theme=light&font=Archivo&ext=heatmap" /></a>
 </p>
+<br>
 
 
 

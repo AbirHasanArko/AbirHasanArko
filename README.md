@@ -17,7 +17,8 @@
 
 ## Problem Solving and Competitive Programming
 <p float="left">
-<img height="260em" src="https://leetcard.jacoblin.cool/AbirHasanArko?theme=light&font=Archivo&ext=heatmap" />
+<a href="https://leetcode.com/AbirHasanArko/">
+<img height="260em" src="https://leetcard.jacoblin.cool/AbirHasanArko?theme=light&font=Archivo&ext=heatmap" /></a>
 
 <a href="https://codeforces.com/profile/RoronoaArko">
  <img height="260em" src="https://codeforces-readme-stats.vercel.app/api/card?username=RoronoaArko" /></a>

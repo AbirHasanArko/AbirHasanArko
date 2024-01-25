@@ -29,10 +29,10 @@
 
 <p float="left">
 <a href="https://codeforces.com/profile/RoronoaArko">
-    <img height="220em" src="https://codeforces-readme-stats.vercel.app/api/card?username=RoronoaArko" /></a>
+    <img height="220em" src="https://codeforces-readme-stats.vercel.app/api/card?username=RoronoaArko&theme=dark&force_username=true" /></a>
     
 <a href="https://leetcode.com/AbirHasanArko/">
-    <img height="220em" src="https://leetcard.jacoblin.cool/AbirHasanArko?theme=light&font=Archivo&ext=heatmap" /></a>
+    <img height="220em" src="https://leetcard.jacoblin.cool/AbirHasanArko?theme=dark&font=Archivo&ext=heatmap" /></a>
 </p>
 <br>
 

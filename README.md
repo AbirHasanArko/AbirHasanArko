@@ -15,7 +15,7 @@
 <br>
 
 <!-- Stacks -->
-## My Stacks
+## Skills
 - **Languages:** C | C++
 - **Frontend:** HTML | CSS
 - **Others:** Arduino | Scratch

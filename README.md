@@ -3,10 +3,14 @@
 <!-- Social -->
 <p>
 <a href="https://www.linkedin.com/in/abirhasanarko/">
-    <img alt="" title="Linkedin" src="https://img.shields.io/badge/-abirhasanarko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abirhasanarko/"/</a> 
+    <img alt="" title="LinkedIn" src="https://img.shields.io/badge/-abirhasanarko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abirhasanarko/"/</a> 
 
 <a href="https://twitter.com/AbirHasanArko">
     <img alt="" title="Twitter" src="https://img.shields.io/twitter/follow/AbirHasanArko?label=AbirHasanArko"/></a>
+
+<a href="https://www.youtube.com/">
+    <img alt="" title="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCXX73Kygc3zJ-Q4kkbZsx1w"/></a>
+
 </p>
 <br>
 

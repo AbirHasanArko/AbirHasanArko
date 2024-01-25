@@ -2,13 +2,13 @@
 
 <!-- Social -->
 <p>
-<a href="https://www.linkedin.com/in/abirhasanarko/">
+<a href="https://www.linkedin.com/in/abirhasanarko/" target="_blank">
     <img alt="" title="LinkedIn" src="https://img.shields.io/badge/-abirhasanarko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abirhasanarko/"/</a> 
 
-<a href="https://twitter.com/AbirHasanArko">
+<a href="https://twitter.com/AbirHasanArko" target="_blank">
     <img alt="" title="Twitter" src="https://img.shields.io/twitter/follow/AbirHasanArko?label=AbirHasanArko"/></a>
 
-<a href="https://www.youtube.com/">
+<a href="https://www.youtube.com/" target="_blank">
     <img alt="" title="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCXX73Kygc3zJ-Q4kkbZsx1w"/></a>
 
 </p>

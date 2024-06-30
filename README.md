@@ -25,14 +25,14 @@
 
 ## Problem Solving and Competitive Programming
 
-[Codeforces](https://codeforces.com/profile/RoronoaArko) | [Leetcode](https://leetcode.com/AbirHasanArko/) | [HackerRank](https://www.hackerrank.com/profile/RoronoaArko) | [Vjudge](https://vjudge.net/user/RoronoaArko)
+[Codeforces](https://codeforces.com/profile/RoronoaArko) | [Leetcode](https://leetcode.com/RoronoaArko/) | [HackerRank](https://www.hackerrank.com/profile/RoronoaArko) | [Vjudge](https://vjudge.net/user/RoronoaArko)
 
 <p float="left">
 <a href="https://codeforces.com/profile/RoronoaArko">
     <img height="220em" src="https://codeforces-readme-stats.vercel.app/api/card?username=RoronoaArko&theme=dark&force_username=true" /></a>
     
-<a href="https://leetcode.com/AbirHasanArko/">
-    <img height="220em" src="https://leetcard.jacoblin.cool/AbirHasanArko?theme=dark&font=ABeeZee&ext=heatmap" /></a>
+<a href="https://leetcode.com/RoronoaArko/">
+    <img height="220em" src="https://leetcard.jacoblin.cool/RoronoaArko?theme=dark&font=ABeeZee&ext=heatmap" /></a>
 </p>
 <br>
 

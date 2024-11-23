@@ -16,9 +16,9 @@
 
 <!-- Stacks -->
 ## Skills
-- **Languages:** C | C++
+- **Languages:** C | C++ | Python
 - **Frontend:** HTML | CSS
-- **Others:** Arduino | Scratch
+- **Hardware:** Arduino | Verilog | Logisim
 <br>
 
 

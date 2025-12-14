@@ -16,9 +16,9 @@
 
 <!-- Stacks -->
 ## Skills
-- **Languages:** C | C++ | Python
+- **Languages:** C | C++ | Python | Java
 - **Frontend:** HTML | CSS
-- **Hardware:** Arduino | Verilog | Logisim
+- **Hardware:** Arduino | Verilog HDL | Logisim
 <br>
 
 
@@ -42,7 +42,7 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AbirHasanArko&show_icons=true&count_private=true&theme=dark" alt="AbirHasanArko" />
     
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbirHasanArko&theme=dark&card_width=466&ring=76F893&fire=76F893&currStreakLabel=76F893)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbirHasanArko&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbirHasanArko&theme=dark&layout=compact&align=right&width=40%)](https://github.com/AbirHasanArko/github-readme-stats)
  

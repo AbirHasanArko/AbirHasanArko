@@ -157,36 +157,36 @@ Cross-platform password manager with encrypted vault & biometric auth.
 <tr>
 <td width="50%">
 <a href="https://github.com/AbirHasanArko/HelloMed">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbirHasanArko&repo=HelloMed&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-arko7.vercel.app/api/pin/?username=AbirHasanArko&repo=HelloMed&theme=dark&hide_border=true" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/AbirHasanArko/HelloMed-DB">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbirHasanArko&repo=HelloMed-DB&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-arko7.vercel.app/api/pin/?username=AbirHasanArko&repo=HelloMed-DB&theme=dark&hide_border=true" />
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <a href="https://github.com/AbirHasanArko/ClassOS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbirHasanArko&repo=ClassOS&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-arko7.vercel.app/api/pin/?username=AbirHasanArko&repo=ClassOS&theme=dark&hide_border=true" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/AbirHasanArko/MindScribe">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbirHasanArko&repo=MindScribe&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-arko7.vercel.app/api/pin/?username=AbirHasanArko&repo=MindScribe&theme=dark&hide_border=true" />
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <a href="https://github.com/AbirHasanArko/PassMan">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbirHasanArko&repo=PassMan&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-arko7.vercel.app/api/pin/?username=AbirHasanArko&repo=PassMan&theme=dark&hide_border=true" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/AbirHasanArko/AI-Function-Validator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbirHasanArko&repo=AI-Function-Validator&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-arko7.vercel.app/api/pin/?username=AbirHasanArko&repo=AI-Function-Validator&theme=dark&hide_border=true" />
 </a>
 </td>
 </tr>
@@ -224,8 +224,8 @@ Cross-platform password manager with encrypted vault & biometric auth.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbirHasanArko&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000&title_color=6EE7FF&icon_color=6EE7FF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbirHasanArko&theme=dark&layout=compact&hide_border=true&bg_color=00000000&title_color=6EE7FF" height="165" />
+  <img src="https://github-readme-stats-arko7.vercel.app/api?username=AbirHasanArko&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000&title_color=6EE7FF&icon_color=6EE7FF" height="165" />
+  <img src="https://github-readme-stats-arko7.vercel.app/api/top-langs/?username=AbirHasanArko&theme=dark&layout=compact&hide_border=true&bg_color=00000000&title_color=6EE7FF" height="165" />
 </p>
 
 <p align="center">

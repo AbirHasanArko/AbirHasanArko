@@ -99,7 +99,7 @@ Cross-platform password manager with encrypted vault & biometric auth.
 <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/><sub>MySQL</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/><br/><sub>PostgreSQL</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48"/><br/><sub>SQLite</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=oracle&theme=dark" width="48"/><br/><sub>Oracle PL/SQL</sub></td>
+<td align="center"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/oracle-icon.png" width="48"/><br/><sub>Oracle PL/SQL</sub></td>
 </tr></table>
 
 **AI / Computer Vision**
@@ -242,7 +242,6 @@ Cross-platform password manager with encrypted vault & biometric auth.
   <img src="https://raw.githubusercontent.com/AbirHasanArko/AbirHasanArko/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> ℹ️ The snake animation needs a one-time GitHub Action in this repo to generate itself — see the note at the bottom of this file.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
 

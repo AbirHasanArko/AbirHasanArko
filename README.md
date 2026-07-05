@@ -2,9 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=700&size=55&duration=3500&pause=100000&color=FF6EC7,6EE7FF,FFD76E&center=true&vCenter=true&width=700&height=90&repeat=false&lines=Hi%2C+I'm+Abir+Hasan+Arko+%F0%9F%91%8B" alt="Greeting" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=48&duration=3500&pause=100000&color=FF6EC7,6EE7FF,FFD76E&center=true&vCenter=true&width=1000&height=100&repeat=false&lines=Hi%2C+I'm+Abir+Hasan+Arko+%F0%9F%91%8B" alt="Greeting" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=6EE7FF&center=true&vCenter=true&width=650&lines=Building+MindScribe+%E2%80%94+a+Laravel%2FVue+publishing+platform;Training+YOLOv8+for+ClassOS+attendance+system;Shipping+HelloMed+%E2%80%94+a+digital+health+platform;Wiring+up+AS608+fingerprint+sensors+on+a+Raspberry+Pi;Solving+problems+on+Codeforces+%26+LeetCode" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=6EE7FF&center=true&vCenter=true&width=820&lines=Building+MindScribe+%E2%80%94+a+Laravel%2FVue+publishing+platform;Training+YOLOv8+for+ClassOS+attendance+system;Shipping+HelloMed+%E2%80%94+a+digital+health+platform;Wiring+up+AS608+fingerprint+sensors+on+a+Raspberry+Pi;Solving+problems+on+Codeforces+%26+LeetCode" alt="Typing SVG" /></a>
+
+<p>
+  <a href="https://github.com/AbirHasanArko"><img src="https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white" height="45" /></a>
+  <a href="https://www.linkedin.com/in/abirhasanarko/"><img src="https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" /></a>
+  <a href="https://twitter.com/AbirHasanArko"><img src="https://img.shields.io/badge/-%20-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="45" /></a>
+  <a href="https://codeforces.com/profile/RoronoaArko"><img src="https://img.shields.io/badge/-%20-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="45" /></a>
+  <a href="https://leetcode.com/RoronoaArko/"><img src="https://img.shields.io/badge/-%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45" /></a>
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/abirhasanarko/"><img src="https://img.shields.io/badge/-abirhasanarko-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
@@ -61,87 +69,80 @@ Cross-platform password manager with encrypted vault & biometric auth.
 <div align="center">
 
 **Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,ts,cs&theme=dark" /><br/><br/>
+
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48"/><br/><sub>C++</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48"/><br/><sub>C</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/><br/><sub>Java</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br/><sub>Python</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48"/><br/><sub>PHP</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/><br/><sub>TypeScript</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48"/><br/><sub>C#</sub></td>
+</tr></table>
 
 **Web & Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=laravel,vue,react,fastapi,dotnet,tailwind,html,css&theme=dark" /><br/><br/>
+
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48"/><br/><sub>Laravel</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48"/><br/><sub>Vue.js</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/><sub>React</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48"/><br/><sub>FastAPI</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="48"/><br/><sub>ASP.NET</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48"/><br/><sub>Tailwind</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/><sub>HTML</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/><br/><sub>CSS</sub></td>
+</tr></table>
 
 **Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle&theme=dark" /><br/><br/>
+
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/><sub>MySQL</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/><br/><sub>PostgreSQL</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48"/><br/><sub>SQLite</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=oracle&theme=dark" width="48"/><br/><sub>Oracle PL/SQL</sub></td>
+</tr></table>
 
 **AI / Computer Vision**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,opencv,pytorch&theme=dark" /><br/><br/>
+
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br/><sub>Python</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48"/><br/><sub>OpenCV</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48"/><br/><sub>PyTorch</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-dlib-2F2F2F?style=for-the-badge" height="30"/><br/><sub>dlib</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="30"/><br/><sub>Ollama</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-Mistral-FA520F?style=for-the-badge" height="30"/><br/><sub>Mistral</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-RAG-6EE7FF?style=for-the-badge" height="30"/><br/><sub>RAG</sub></td>
+</tr></table>
 
 **Hardware & Embedded**
-<br/>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Verilog%20HDL-4C9BD6?style=for-the-badge" height="48" />
-&nbsp;
-<img src="https://img.shields.io/badge/-AS608%20Fingerprint-333333?style=for-the-badge" height="48" /><br/><br/>
+
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48"/><br/><sub>Arduino</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="48"/><br/><sub>Raspberry Pi</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-Verilog-4C9BD6?style=for-the-badge" height="30"/><br/><sub>Verilog HDL</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-AS608-333333?style=for-the-badge" height="30"/><br/><sub>Fingerprint Sensor</sub></td>
+</tr></table>
 
 **Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="48" />
+
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/><sub>Git</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/><sub>GitHub</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/><br/><sub>Linux</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/><sub>VS Code</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="30"/><br/><sub>Jira</sub></td>
+</tr></table>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
+
 ## 📈 Proficiency Levels
 
 <div align="center">
 
-**Languages**
-
-<img src="https://progress-bar.dev/85/?title=C%2B%2B&width=220&color=6ee7ff" />
-<img src="https://progress-bar.dev/80/?title=C&width=220&color=6ee7ff" /><br/>
-<img src="https://progress-bar.dev/80/?title=Python&width=220&color=6ee7ff" />
-<img src="https://progress-bar.dev/75/?title=PHP&width=220&color=6ee7ff" /><br/>
-<img src="https://progress-bar.dev/70/?title=Java&width=220&color=6ee7ff" />
-<img src="https://progress-bar.dev/60/?title=TypeScript&width=220&color=6ee7ff" /><br/>
-<img src="https://progress-bar.dev/55/?title=C%23&width=220&color=6ee7ff" />
-
-<br/><br/>
-
-**Web & Frameworks**
-
-<img src="https://progress-bar.dev/80/?title=Laravel&width=220&color=ff6ec7" />
-<img src="https://progress-bar.dev/70/?title=Vue.js&width=220&color=ff6ec7" /><br/>
-<img src="https://progress-bar.dev/65/?title=React&width=220&color=ff6ec7" />
-<img src="https://progress-bar.dev/65/?title=FastAPI&width=220&color=ff6ec7" /><br/>
-<img src="https://progress-bar.dev/70/?title=TailwindCSS&width=220&color=ff6ec7" />
-<img src="https://progress-bar.dev/50/?title=ASP.NET&width=220&color=ff6ec7" />
-
-<br/><br/>
-
-**Databases**
-
-<img src="https://progress-bar.dev/70/?title=MySQL&width=220&color=ffd76e" />
-<img src="https://progress-bar.dev/65/?title=Oracle%20PL%2FSQL&width=220&color=ffd76e" /><br/>
-<img src="https://progress-bar.dev/60/?title=SQLite&width=220&color=ffd76e" />
-
-<br/><br/>
-
-**AI / Computer Vision**
-
-<img src="https://progress-bar.dev/70/?title=YOLOv8&width=220&color=8b5cf6" />
-<img src="https://progress-bar.dev/65/?title=OpenCV&width=220&color=8b5cf6" /><br/>
-<img src="https://progress-bar.dev/60/?title=LLM%20Function%20Calling&width=220&color=8b5cf6" />
-
-<br/><br/>
-
-**Hardware & Embedded**
-
-<img src="https://progress-bar.dev/75/?title=Raspberry%20Pi&width=220&color=2ec866" />
-<img src="https://progress-bar.dev/75/?title=Arduino&width=220&color=2ec866" /><br/>
-<img src="https://progress-bar.dev/55/?title=Verilog%20HDL&width=220&color=2ec866" />
+<img src="assets/proficiency.svg" width="100%" />
 
 </div>
 

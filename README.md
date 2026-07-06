@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=48&duration=3500&pause=100000&color=FF6EC7,6EE7FF,FFD76E&center=true&vCenter=true&width=1000&height=100&repeat=false&lines=Hi%2C+I'm+Abir+Hasan+Arko+%F0%9F%91%8B" alt="Greeting" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=6EE7FF&center=true&vCenter=true&width=820&lines=Building+MindScribe+%E2%80%94+a+Laravel%2FVue+publishing+platform;Training+YOLOv8+for+ClassOS+attendance+system;Shipping+HelloMed+%E2%80%94+a+digital+health+platform;Wiring+up+AS608+fingerprint+sensors+on+a+Raspberry+Pi;Solving+problems+on+Codeforces+%26+LeetCode" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=6EE7FF&center=true&vCenter=true&width=820&lines=Building+MindScribe+%E2%80%94+a+Laravel%2FVue+publishing+platform;Training+AI+with+Raspberry+PI+for+ClassOS+attendance+system;Exploring+the+world+of+Data+Science;Shipping+HelloMed+%E2%80%94+a+digital+health+platform;Solving+problems+on+Codeforces+%26+LeetCode" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://github.com/AbirHasanArko"><img src="https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white" height="45" /></a>
@@ -78,6 +78,7 @@ Cross-platform password manager with encrypted vault & biometric auth.
 <td align="center"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="48"/><br/><sub>PHP</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/><br/><sub>TypeScript</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48"/><br/><sub>C#</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="48"/><br/><sub>Dart</sub></td>
 </tr></table>
 
 **Web & Frameworks**
@@ -91,6 +92,14 @@ Cross-platform password manager with encrypted vault & biometric auth.
 <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48"/><br/><sub>Tailwind</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/><sub>HTML</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/><br/><sub>CSS</sub></td>
+</tr></table>
+
+**Mobile & Cloud**
+
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48"/><br/><sub>Flutter</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="48"/><br/><sub>Dart</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48"/><br/><sub>Firebase</sub></td>
 </tr></table>
 
 **Databases**

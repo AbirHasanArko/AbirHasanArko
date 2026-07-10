@@ -4,21 +4,14 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=48&duration=3500&pause=100000&color=FF6EC7,6EE7FF,FFD76E&center=true&vCenter=true&width=1000&height=100&repeat=false&lines=Hi%2C+I'm+Abir+Hasan+Arko+%F0%9F%91%8B" alt="Greeting" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=6EE7FF&center=true&vCenter=true&width=820&lines=Building+MindScribe+%E2%80%94+a+Laravel%2FVue+publishing+platform;Training+AI+with+Raspberry+PI+for+ClassOS+attendance+system;Exploring+the+world+of+Data+Science;Shipping+HelloMed+%E2%80%94+a+digital+health+platform;Solving+problems+on+Codeforces+%26+LeetCode" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=6EE7FF&center=true&vCenter=true&width=820&lines=Building+MindScribe+%E2%80%94+a+Laravel%2FVue+publishing+platform;Training+YOLOv8+for+ClassOS+attendance+system;Shipping+HelloMed+%E2%80%94+a+digital+health+platform;Wiring+up+AS608+fingerprint+sensors+on+a+Raspberry+Pi;Solving+problems+on+Codeforces+%26+LeetCode" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://github.com/AbirHasanArko"><img src="https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white" height="45" /></a>
-  <a href="https://www.linkedin.com/in/abirhasanarko/"><img src="https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="45" /></a>
-  <a href="https://twitter.com/AbirHasanArko"><img src="https://img.shields.io/badge/-%20-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="45" /></a>
+  <a href="https://www.linkedin.com/in/abirhasanarko/"><img src="https://img.shields.io/badge/-%20-0077b5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K" height="45" /></a>
+  <a href="https://twitter.com/AbirHasanArko"><img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white" height="45" /></a>
   <a href="https://codeforces.com/profile/RoronoaArko"><img src="https://img.shields.io/badge/-%20-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="45" /></a>
   <a href="https://leetcode.com/RoronoaArko/"><img src="https://img.shields.io/badge/-%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="45" /></a>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/abirhasanarko/"><img src="https://img.shields.io/badge/-abirhasanarko-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/AbirHasanArko"><img src="https://img.shields.io/badge/-@AbirHasanArko-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/RoronoaArko"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AbirHasanArko&style=for-the-badge&color=6EE7FF&label=PROFILE+VIEWS" />
 </p>
 
 </div>
@@ -139,6 +132,7 @@ Cross-platform password manager with encrypted vault & biometric auth.
 <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/><sub>GitHub</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/><br/><sub>Linux</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/><sub>VS Code</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/><sub>Docker</sub></td>
 <td align="center"><img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="30"/><br/><sub>Jira</sub></td>
 </tr></table>
 
